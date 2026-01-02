@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSFamilyControlsUsageDescription</key>
+	<string>This app needs access to Screen Time to help you block distracting apps and stay focused on your productivity goals.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>ProductivityRPG syncs your time blocks to Apple Calendar so you can see them across all your devices and get silent reminders when blocks start.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PlayfairDisplay-Regular.ttf</string>
+		<string>PlayfairDisplay-Bold.ttf</string>
+		<string>PlayfairDisplay-BoldItalic.ttf</string>
+		<string>PlayfairDisplay-Italic.ttf</string>
+		<string>PlayfairDisplay-Black.ttf</string>
+		<string>PlayfairDisplay-BlackItalic.ttf</string>
+	</array>
+</dict>
+</plist>

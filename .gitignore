@@ -1,0 +1,76 @@
+# -------------------------------------------------
+# macOS
+# -------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -------------------------------------------------
+# Xcode
+# -------------------------------------------------
+# Build products
+build/
+DerivedData/
+*.xcarchive
+
+# User settings / per-user files
+xcuserdata/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcuserstate
+
+# Xcode SCM files (optional; safe to ignore)
+*.xccheckout
+*.xcscmblueprint
+
+# SwiftUI previews / temporary
+.swiftpm/xcode/package.xcworkspace/
+
+# Logs
+*.log
+
+# App packaging
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.dSYM.tar.gz
+
+# -------------------------------------------------
+# Dependency managers
+# -------------------------------------------------
+# CocoaPods (recommended to ignore; remove this if you intentionally commit Pods/)
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+
+# -------------------------------------------------
+# Fastlane (if used)
+# -------------------------------------------------
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# -------------------------------------------------
+# IDEs / editors
+# -------------------------------------------------
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# -------------------------------------------------
+# Misc
+# -------------------------------------------------
+# Code Injection (rare, but seen in iOS projects)
+iOSInjectionProject/
